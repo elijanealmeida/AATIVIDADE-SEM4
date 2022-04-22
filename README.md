@@ -1,0 +1,6 @@
+Esta semana aprendemos sobre, estrutura de repetição, matrizes, métodos e estruturas.
+Falando um pouco sobre estrutura de repetição tambem conhecida como loop, laço ou iteração, não achei complicado e sim muito pratico na resolução dos problemas facilita bastante, a cada dia vejo que um "simples comando" resolve todo um problema e o melhor existem vários caminhos, aprendir tbm como podemos encerrar uma instruçao utilizando o Break, como podemos pular uma instrução dando Continue.
+Não peguei muito sobre matrizes e arrays achei um pouco mais complicado na minha interpretação mais vendo mais exemplos e videos  aredito que ficará mais fácil. 
+Vejo que a cada dis esta sendo um novo desafio para mim, e sei que a cada dia vou vencendo cada desafio e com a ajuda das colegas e da prof fica tudo mais leve.
+Referente a atividade de casa sentir mais dificuldades na questão 4 e 5 achei mais confuza ate tnetei ver uns exemplos mais acei muitos complicados, mais não desistir, porque esta palavra não faz parte do meu vocabulário.
+Seguirei firme e encarando cada desafio. 
